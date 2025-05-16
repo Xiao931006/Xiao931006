@@ -1,3 +1,5 @@
+https://github.com/Xiao931006/homework
+
 - 👋 Hi, I’m @Xiao931006
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -10,4 +12,3 @@
 Xiao931006/Xiao931006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-https://github.com/Xiao931006/homework
